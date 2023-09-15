@@ -89,29 +89,29 @@
 
 
 <p align="center" >
-<img src="https://streak-stats.demolab.com/?user=2018115025&theme=merko"  />
+<img src="https://streak-stats.demolab.com/?user=dhanush-priyan&theme=merko"  />
 </p>
 
 
 
 <p>
-<a href="https://github.com/2018115025"><span>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2018115025&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=2018115025&show_icons=true&theme=merko" alt="ovi" width="400px"/>
+<a href="https://github.com/dhanush-priyan"><span>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-priyan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanush-priyan&show_icons=true&theme=merko" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/>
 <hr clear="both"> 
  <br/><br/><br/>
 <p align="center">
-<a href="https://github.com/2018115025"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2018115025&theme=merko" />
+<a href="https://github.com/dhanush-priyan"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanush-priyan&theme=merko" />
 </span></a> </p>
 
 
  <br/>
 GitHub Cup's  
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=2018115025&theme=vue" alt=""/> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=dhanush-priyan&theme=vue" alt=""/> </p>
  <br/>
  
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=2018115025&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  -->
