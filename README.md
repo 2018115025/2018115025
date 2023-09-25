@@ -109,8 +109,7 @@
 </span></a> </p>
 
 
- <br/>
-GitHub Cup's  
+ <br/>  
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=2018115025&theme=vue" alt=""/> </p>
  <br/>
  
